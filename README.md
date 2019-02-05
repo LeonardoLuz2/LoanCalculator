@@ -7,6 +7,6 @@ Loan calculator application with ASP.NET Core and Angular.
 * ASP.NET Core 2.2 (with .NET Core)
 * ASP.NET WebApi Core
 * .NET Core Native DI
-* FluentValidator
+* FluentValidation
 * Swagger UI
-* Angular 7
+* Angular
